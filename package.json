@@ -94,6 +94,7 @@
   },
   "dependencies": {
     "@cloudamqp/amqp-client": "^2.1.1",
+    "@faker-js/faker": "^8.4.1",
     "@grpc/grpc-js": "^1.10.7",
     "@grpc/proto-loader": "^0.7.13",
     "@xmldom/xmldom": "^0.8.10",
